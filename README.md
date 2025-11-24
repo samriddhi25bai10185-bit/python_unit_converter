@@ -50,28 +50,28 @@ This project is developed as part of the **VIT – Build Your Own Project (BYOP)
 
 
 🧩 Steps to Install & Run the Project
--1️⃣ Clone the repository
-git clone https://github.com/your-username/python-unit-converter.git
--2️⃣ Open the project directory
+**-1️⃣ Clone the repository**
+git clone https://github.com/samriddhi25bai10185-bit/python-unit-converter.git
+**-2️⃣ Open the project directory**
 python main.py
--if you are on macOS/Linux.
+**-if you are on macOS/Linux.**
 Use:
 python3 main.py
 
 
 🧪 Instructions for Testing
 
-1.Run the program
-2.Choose a category:
-Length
-Weight
-Time
-Temperature
-3.Select a conversion option
-4.Enter a value
-5.Verify the result
-6.Test multiple values to check accuracy
-7.Try invalid inputs to test error handling (optional)
+ 1.Run the program
+ 2.Choose a category:
+  Length
+  Weight
+  Time
+  Temperature
+ 3.Select a conversion option
+ 4.Enter a value
+ 5.Verify the result
+ 6.Test multiple values to check accuracy
+ 7.Try invalid inputs to test error handling (optional)
 
 
 
