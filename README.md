@@ -73,15 +73,12 @@ python3 main.py
  6.Test multiple values to check accuracy
  7.Try invalid inputs to test error handling (optional)
 
- ##Screenshot
-<img width="1912" height="1017" alt="length converter" src="https://github.com/user-attachments/assets/20a454fb-d648-47a0-8985-6da17b451582" />
+## Screenshot
 https://1drv.ms/i/c/55ed6d215c9222e0/IQB-PLzzjdC0QKgkvkXaMwxIAYzDnYz6kmBLeOk8aZb1CWQ?e=Jhcz7Z
-
-
-
-
-
-
+https://1drv.ms/i/c/55ed6d215c9222e0/IQBkRReciSxvQ52bC5Rjs-IEATVbNEIfHvCBI5VfuMSzyBU?e=229poy
+https://1drv.ms/i/c/55ed6d215c9222e0/IQBkRReciSxvQ52bC5Rjs-IEATVbNEIfHvCBI5VfuMSzyBU?e=229poy
+https://1drv.ms/i/c/55ed6d215c9222e0/IQBkRReciSxvQ52bC5Rjs-IEATVbNEIfHvCBI5VfuMSzyBU?e=229poy
+https://1drv.ms/i/c/55ed6d215c9222e0/IQBkRReciSxvQ52bC5Rjs-IEATVbNEIfHvCBI5VfuMSzyBU?e=229poy
 
 
 
