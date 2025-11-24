@@ -10,7 +10,7 @@ It demonstrates modular programming, clean structure, user input handling, and r
 This project is developed as part of the **VIT – Build Your Own Project (BYOP)** evaluation.
 
 
- ✨ Features
+ ##✨ Features
 
 🔹 Length Conversion
 - Meter ↔ Kilometer  
@@ -35,21 +35,21 @@ This project is developed as part of the **VIT – Build Your Own Project (BYOP)
 - Celsius ↔ Kelvin  
 - Kelvin ↔ Celsius
 
-  General Features
+ ## General Features
 - Simple and interactive menu system  
 - Clean and modular Python code  
 - Accurate mathematical conversions  
 - Easy to extend with more units  
 
 
-🛠 Technologies / Tools Used
+##🛠 Technologies / Tools Used
 - **Python 3.x**
 - Standard Python libraries
 - VS Code (optional)
 - Git & GitHub for version control
 
 
-🧩 Steps to Install & Run the Project
+##🧩 Steps to Install & Run the Project
 **-1️⃣ Clone the repository**
 git clone https://github.com/samriddhi25bai10185-bit/python-unit-converter.git
 **-2️⃣ Open the project directory**
@@ -59,7 +59,7 @@ Use:
 python3 main.py
 
 
-🧪 Instructions for Testing
+##🧪 Instructions for Testing
 
  1.Run the program
  2.Choose a category:
