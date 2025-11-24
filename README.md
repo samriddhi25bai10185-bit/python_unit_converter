@@ -1,7 +1,7 @@
-Python Smart Unit Converter
+Python Unit Converter
 
 ## 🏷️ Project Title
-**Python Smart Unit Converter**
+**Python Unit Converter**
 
 
 ## 📘 Overview of the Project
