@@ -51,11 +51,11 @@ This project is developed as part of the **VIT – Build Your Own Project (BYOP)
 
 🧩 Steps to Install & Run the Project
 
-### 1️⃣ Clone the repository
+-1️⃣ Clone the repository
 git clone https://github.com/your-username/python-unit-converter.git
-2️⃣ Open the project directory
+-2️⃣ Open the project directory
 python main.py
-if you are on macOS/Linux.
+-if you are on macOS/Linux.
 Use:
 python3 main.py
 
