@@ -50,7 +50,6 @@ This project is developed as part of the **VIT – Build Your Own Project (BYOP)
 
 
 🧩 Steps to Install & Run the Project
-
 -1️⃣ Clone the repository
 git clone https://github.com/your-username/python-unit-converter.git
 -2️⃣ Open the project directory
